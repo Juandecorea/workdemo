@@ -1,2 +1,6 @@
 fighting
+<<<<<<< HEAD
 world
+=======
+red
+>>>>>>> 89ea4f0efc6524f70b074e8416aef04e743db27c
